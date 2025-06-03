@@ -6,7 +6,7 @@
     <title>Motaのポートフォリオ</title>
   </head>
   <body>
-    <h1>Mota</h1>
+    <h1>　Mota　</h1>
 
     <h2>About</h2>
     <p>
@@ -16,9 +16,9 @@
 
     <h3>Profile</h3>
     <ul>
-      <li>名前（ハンドルネームも可）</li>
-      <li>所在地（県や市までで OK）</li>
-      <li>得意領域（Web 開発、サーバ運用など）</li>
+      <li>　Mota　</li>
+      <li>東京</li>
+      <li>料理</li>
     </ul>
 
     <h3>Skills</h3>
@@ -37,7 +37,7 @@
       </tr>
       <tr>
         <th>資格・免許</th>
-        <td>情報処理技術者、LPIC など</td>
+        <td>調理師免許など</td>
       </tr>
     </table>
 
